@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pedagogy/static/css/main.2b9c2359.css",
+    "main.js": "/pedagogy/static/js/main.1c8e96b0.js",
+    "static/media/technologies.jpg": "/pedagogy/static/media/technologies.6f5bf012b3ec6fb5d6c7.jpg",
+    "static/media/receptions.jpg": "/pedagogy/static/media/receptions.4539d917e3229bddbaba.jpg",
+    "static/media/methods.jpg": "/pedagogy/static/media/methods.40f3c40dbc3e3933e8d5.jpg",
+    "static/media/receptionsTable.jpg": "/pedagogy/static/media/receptionsTable.a8670e641ee9394b02e3.jpg",
+    "index.html": "/pedagogy/index.html",
+    "main.2b9c2359.css.map": "/pedagogy/static/css/main.2b9c2359.css.map",
+    "main.1c8e96b0.js.map": "/pedagogy/static/js/main.1c8e96b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b9c2359.css",
+    "static/js/main.1c8e96b0.js"
+  ]
+}
