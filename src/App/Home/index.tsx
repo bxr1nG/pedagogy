@@ -21,6 +21,12 @@ const Home: React.FC<HomeProps> = () => {
                     </StyledLink>
                     <StyledLink
                         as={Link}
+                        to="/classification"
+                    >
+                        Классификация методов
+                    </StyledLink>
+                    <StyledLink
+                        as={Link}
                         to="/receptions"
                     >
                         Приемы

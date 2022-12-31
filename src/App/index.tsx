@@ -8,6 +8,7 @@ import Home from "./Home";
 import Methods from "./Methods";
 import Receptions from "./Receptions";
 import Technologies from "./Technologies";
+import Classification from "./Classification";
 
 type AppProps = Record<string, never>;
 
@@ -28,6 +29,10 @@ const App: React.FC<AppProps> = () => {
                     <Route
                         path="methods"
                         element={<Methods />}
+                    />
+                    <Route
+                        path="classification"
+                        element={<Classification />}
                     />
                     <Route
                         path="receptions"
